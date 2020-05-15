@@ -1,0 +1,22 @@
+{
+  "name": "reiwarecom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanChepik/ReiwareCom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvanChepik/ReiwareCom/issues"
+  },
+  "homepage": "https://github.com/IvanChepik/ReiwareCom#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
